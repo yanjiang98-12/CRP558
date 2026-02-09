@@ -1,0 +1,29 @@
+title: "Home"
+description: ""
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"
+
+search: false
+markdown: kramdown
+permalink: pretty
+
+atom_feed:
+  hide: true
+
+collections:
+  pages:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      custom_head: head/custom.html
+      sidebar:
+        nav: "sidebar"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
