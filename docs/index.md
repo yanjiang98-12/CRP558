@@ -11,7 +11,7 @@ custom_head: head/custom.html
 
 ## Welcome
 
-This site contains my coursework, exercises, and final project for **LA5880**.
+This site contains my coursework, exercises, and final project for **CRP 5580**.
 
 Use the buttons below to see the course  tasks, exercises, assignments, and final project or start by going to learn more <a href = "about">about me</a>.
 
