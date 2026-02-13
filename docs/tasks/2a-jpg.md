@@ -10,9 +10,5 @@ Below is a png image that was exported from QGIS. The map shows household income
 
 
 
-<img
-  src="/seeger5880-2026/assets/images/2a_household_income.png"
-  alt="Household income by county in Iowa"
-  style="max-width: 800px; width: 100%; height: auto;"
-/>
+
 
