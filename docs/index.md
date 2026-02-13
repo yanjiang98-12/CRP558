@@ -16,8 +16,8 @@ This site contains my coursework, exercises, and final project for **CRP 5580**.
 Use the buttons below to see the course  tasks, exercises, assignments, and final project or start by going to learn more <a href = "about">about me</a>.
 
 <div class="button-container">
-  <a href="/seeger5880-2026/tasks/" class="btn btn--primary">View Tasks</a>
-  <a href="/seeger5880-2026/exercises/" class="btn btn--primary">View Exercises</a>
-  <a href="/seeger5880-2026/assignments/" class="btn btn--primary">View Assignments</a>
-  <a href="/seeger5880-2026/final-project/" class="btn btn--primary">View Final Project</a>
+  <a href="/CRP558/tasks/" class="btn btn--primary">View Tasks</a>
+  <a href="/CRP558/exercises/" class="btn btn--primary">View Exercises</a>
+  <a href="/CRP558/assignments/" class="btn btn--primary">View Assignments</a>
+  <a href="/CRP558/final-project/" class="btn btn--primary">View Final Project</a>
 </div>
