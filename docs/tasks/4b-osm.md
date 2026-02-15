@@ -1,6 +1,6 @@
 ---
-title: "2b OSM Embed"
-permalink: /tasks/2b-osm/
+title: "4b OSM Embed"
+permalink: /tasks/4b-osm/
 markdown: false
 ---
 
