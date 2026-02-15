@@ -17,15 +17,15 @@ sidebar:
         url: /tasks/2a-pdf/
       - title: "2a QGIS JPG"
         url: /tasks/2a-jpg/
-      - title: "4b OSM Embed"
-        url: /tasks/4b-osm/
       - title: "3a Tableau Embed 1"
         url: /tasks/3a-tableau-embed1/
       - title: "3a Tableau Embed 2"
         url: /tasks/3a-tableau-embed2/
       - title: "3a Tableau Embed 3"
         url: /tasks/3a-tableau-embed3/
-
+      - title: "4b OSM Embed"
+        url: /tasks/4b-osm/
+        
   - title: "Exercises"
     children:
       - title: "2a"
