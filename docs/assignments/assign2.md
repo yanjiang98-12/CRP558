@@ -1,6 +1,6 @@
 ---
-title: "3a Tableau Embedded Example 1"
-permalink: /tasks/3a-tableau-embed1/
+title: "Assignment 2- Parameters"
+permalink: /assignments/assign2/
 markdown: false
 ---
 
