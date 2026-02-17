@@ -1,6 +1,6 @@
 ---
-title: "Assignment 2- Parameters"
-permalink: /assignments/assign2/
+title: "Assignment 1- Parameters"
+permalink: /assignments/assign1/
 markdown: false
 ---
 
