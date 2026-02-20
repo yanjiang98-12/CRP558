@@ -1,5 +1,5 @@
 ---
-title: "Assignment 1- Parameters"
+title: "Assignment 1"
 permalink: /assignments/assign1/
 markdown: false
 ---
