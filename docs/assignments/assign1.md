@@ -4,6 +4,7 @@ permalink: /assignments/assign1/
 markdown: false
 ---
 
+[Tableau Public Link](https://public.tableau.com/app/profile/yan.jiang7912/viz/Assignment1_17706663930530/Dashboard1){:target="_blank"}
 
 <div class="tableau-embed-wrapper">
   <div class="tableauPlaceholder" id="viz1771352480365" style="position: relative;">
