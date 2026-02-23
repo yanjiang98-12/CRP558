@@ -7,11 +7,10 @@ markdown: false
 Below is a PDF map for the Iowa Household Income from the 2023 ACS.
 It has to use a HTML iFrame to display the PDF correctly.
 
-
 <iframe
-  src="CRP558/assets/pdf/2a_household_income.pdf"
+  src="/CRP558/assets/pdf/2a_household_income.pdf"
   width="100%"
-  height="900px"
-  style="border: none;"
->
+  height="800px"
+  style="border:none;">
 </iframe>
+
