@@ -5,3 +5,10 @@ markdown: false
 ---
 
 [Tableau Public Link](https://public.tableau.com/shared/ZCTNXBC2S?:display_count=n&:origin=viz_share_link){:target="_blank"}
+
+<iframe 
+  src="https://public.tableau.com/views/Book1_17761897446440/Story1?:showVizHome=no&:embed=true"
+  width="100%"
+  height="900"
+  frameborder="0">
+</iframe>
