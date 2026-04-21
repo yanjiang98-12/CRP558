@@ -60,3 +60,5 @@ sidebar:
         url: /final-project/process/
       - title: "Final Project Dashboards"
         url: /final-project/dashboards/
+      - title: "Final Project Leaflet Map"
+        url: /final-project/iowa_county_analysis_leaflet_map/
