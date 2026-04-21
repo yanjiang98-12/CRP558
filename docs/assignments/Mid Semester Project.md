@@ -1,6 +1,6 @@
 ---
-title: "Mini Project"
-permalink: /assignments/Mini Project/
+title: "Mid Semester Project"
+permalink: /assignments/Mid Semester Project/
 markdown: false
 ---
 
