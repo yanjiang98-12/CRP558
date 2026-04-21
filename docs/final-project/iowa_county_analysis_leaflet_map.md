@@ -5,11 +5,11 @@ markdown: false
 classes: wide
 ---
 
-<div style="width: 100%; max-width: 1400px;">
+<div style="width: 95vw; max-width: 1600px;">
   <iframe
     src="/CRP558/Leaflet-Files/iowa_county_analysis_leaflet_map.html"
     width="100%"
-    height="950"
+    height="1100"
     style="border:none;">
   </iframe>
 </div>
