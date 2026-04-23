@@ -1,5 +1,5 @@
 ---
-title: "iowa county analysis leaflet map"
+title: "Iowa County Analysis Leaflet Map"
 permalink: /final-project/iowa_county_analysis_leaflet_map/
 markdown: false
 classes: wide
