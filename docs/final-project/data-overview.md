@@ -7,10 +7,8 @@ Final Project Data Overview - here you will list the data you use and the locati
 
 ## Medicated Feed Mill License Dataset
 
-<h2>Medicated Feed Mill License Dataset</h2>
-
 <iframe
-  src="./Medicated_Feed_Mill_Licenses_with_County.csv"
+  src="/CRP558/final-project/Medicated_Feed_Mill_Licenses_with_County.csv"
   width="100%"
   height="800"
   style="border:1px solid #ccc;">
