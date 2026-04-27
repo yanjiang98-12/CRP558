@@ -7,14 +7,6 @@ Final Project Data Overview - here you will list the data you use and the locati
 
 ## Medicated Feed Mill License Dataset
 
----
-title: "Final Project Data Overview"
-permalink: /final-project/data-overview/
----
-
-Final Project Data Overview - here you will list the data you use and the location or source of that data.
-
-## Medicated Feed Mill License Dataset
 
 <div style="margin-bottom: 1rem;">
   <input
