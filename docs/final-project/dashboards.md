@@ -3,7 +3,7 @@ title: "Final Project Dashboards"
 permalink: /final-project/dashboards/
 ---
 
-Final project dashboards and other materials might be located here.
+The copy of the final dashboard is also located at
 [Tableau Public Link](https://public.tableau.com/views/finalproject_17769655545060/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link){:target="_blank"}
 
 ## County-Level Relationships Between Medicated Feed Mills, Beef CAFOs, and Socioeconomic Patterns in Iowa
