@@ -5,6 +5,7 @@ markdown: false
 classes: wide
 ---
 
+[Tableau Public Link](https://public.tableau.com/views/leafletmap/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link){:target="_blank"}
 <!-- Tableau Embed: Leaflet Map Dashboard -->
 <div class="tableau-wrapper" style="width: 100%; max-width: 1000px; margin: 0 auto;">
   <div 
