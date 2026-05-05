@@ -3,8 +3,6 @@ title: Final Project Data Overview
 permalink: /final-project/data-overview/
 ---
 
-# Final Project Data Overview
-
 This page lists the datasets used in the final project and provides searchable previews of the project data files.
 
 The project uses four main datasets: the medicated feed mill license dataset, the refined Iowa CAFO dataset, the county-level ACS socioeconomic dataset, and the final joined county-level analysis table.
